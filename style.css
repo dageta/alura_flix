@@ -9,7 +9,7 @@
     --fonte-principal: 'inter';
    }
 
-   body|{
+   body{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
